@@ -9,3 +9,9 @@ body {
  background-color: #232830;
  color: #ffffff;
 }
+
+.maintenace {
+ width: 50%;
+ margin: 0 auto;
+ background: url(mainte.jpg);
+}
